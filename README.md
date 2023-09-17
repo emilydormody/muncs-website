@@ -1,3 +1,3 @@
-www.cs.mun.ca/~emdormody
+# www.cs.mun.ca/~emdormody
 
 Personal website written with HTML and CSS
